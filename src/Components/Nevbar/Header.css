@@ -1,0 +1,15 @@
+.selections{
+    margin-left: 70%;
+    font-size: 20px;
+    background:gray;
+    border: 1px solid white;
+    width: 140px;
+    color: white;
+}
+.navigation{
+    background-image:linear-gradient(black,white);
+}
+.sign{
+    font-size: 20px;
+    border-radius: 15px;
+}
